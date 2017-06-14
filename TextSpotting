@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8"?>
+<readpic>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_12.RKF_0.Frame_1882.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_23.RKF_5.Frame_3451.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_27.RKF_7.Frame_5309.jpg">
+      <prediction mode="opt">
+         <txt height="28.125" lexRecog="still" unconstrainedRecog="still" width="53" x="171" y="149.0625"/>
+         <txt height="34.6875" lexRecog="hero" unconstrainedRecog="hetoo" width="68" x="76" y="180.9375"/>
+         <txt height="30.9375" lexRecog="anyway" unconstrainedRecog="anyway!" width="111" x="145" y="186.5625"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_4.RKF_2.Frame_714.jpg">
+      <prediction mode="opt">
+         <txt height="15" lexRecog="something" unconstrainedRecog="gsomething" width="73" x="200" y="157.5"/>
+         <txt height="13.125" lexRecog="wilderness" unconstrainedRecog="wilderness" width="61" x="194" y="172.5"/>
+         <txt height="13.125" lexRecog="about" unconstrainedRecog="about" width="36" x="68" y="173.4375"/>
+         <txt height="10.3125" lexRecog="into" unconstrainedRecog="into" width="26" x="134" y="160.3125"/>
+         <txt height="13.125" lexRecog="him" unconstrainedRecog="him" width="27" x="104" y="157.5"/>
+         <txt height="12.1875" lexRecog="saying" unconstrainedRecog="saying" width="38" x="165" y="160.3125"/>
+         <txt height="13.125" lexRecog="into" unconstrainedRecog="&#34;into" width="30" x="134" y="173.4375"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_7.RKF_6.Frame_1443.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_18.RKF_0.Frame_1978.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_11.RKF_1.Frame_1880.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_5.RKF_1.Frame_837.jpg">
+      <prediction mode="opt">
+         <txt height="15" lexRecog="luckily" unconstrainedRecog="luckily" width="41" x="39" y="29.0625"/>
+         <txt height="12.1875" lexRecog="garrett" unconstrainedRecog="(aareet" width="48" x="203" y="45.9375"/>
+         <txt height="15" lexRecog="myself" unconstrainedRecog="myself" width="43" x="39" y="61.875"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_1.RKF_8.Frame_239.jpg">
+      <prediction mode="opt">
+         <txt height="31.875" lexRecog="afros" unconstrainedRecog="hrnos" width="98" x="114" y="176.25"/>
+         <txt height="43.125" lexRecog="wagging" unconstrainedRecog="voogging" width="134" x="101" y="133.125"/>
+         <txt height="36.5625" lexRecog="richards" unconstrainedRecog="richards" width="159" x="74" y="89.0625"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_18.RKF_5.Frame_2167.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_12.RKF_1.Frame_1892.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_20.RKF_8.Frame_2730.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_2.RKF_4.Frame_471.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_20.RKF_4.Frame_2550.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_31.RKF_0.Frame_5652.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_9.RKF_7.Frame_1780.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_22.RKF_8.Frame_3274.jpg">
+      <prediction mode="opt">
+         <txt height="16.875" lexRecog="mario" unconstrainedRecog="" width="79" x="107" y="59.0625"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_17.RKF_0.Frame_1927.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_9.RKF_1.Frame_1547.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_25.RKF_0.Frame_4024.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_30.RKF_2.Frame_5555.jpg">
+      <prediction mode="opt">
+         <txt height="28.125" lexRecog="saturn" unconstrainedRecog="saturn" width="90" x="180" y="84.375"/>
+         <txt height="30" lexRecog="clark" unconstrainedRecog="@lark" width="75" x="57" y="82.5"/>
+         <txt height="26.25" lexRecog="music" unconstrainedRecog="musicc" width="94" x="117" y="26.25"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_6.RKF_0.Frame_1191.jpg">
+      <prediction mode="opt">
+         <txt height="12.1875" lexRecog="welcome" unconstrainedRecog="" width="53" x="83" y="30"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_7.RKF_2.Frame_1395.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_21.RKF_3.Frame_2864.jpg">
+      <prediction mode="opt">
+         <txt height="39.375" lexRecog="amanda" unconstrainedRecog="" width="227" x="45" y="37.5"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_5.RKF_3.Frame_925.jpg">
+      <prediction mode="opt">
+         <txt height="14.0625" lexRecog="journey" unconstrainedRecog="journer" width="47" x="134" y="46.875"/>
+         <txt height="12.1875" lexRecog="from" unconstrainedRecog="trom" width="32" x="76" y="46.875"/>
+         <txt height="12.1875" lexRecog="woods" unconstrainedRecog="woods" width="41" x="240" y="46.875"/>
+         <txt height="12.1875" lexRecog="least" unconstrainedRecog="lwast" width="29" x="68" y="30"/>
+         <txt height="15.9375" lexRecog="icily" unconstrainedRecog="ically" width="33" x="39" y="44.0625"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_7.RKF_0.Frame_1366.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_8.RKF_1.Frame_1465.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_25.RKF_1.Frame_4041.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_23.RKF_3.Frame_3400.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_9.RKF_6.Frame_1741.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_2.RKF_3.Frame_430.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_30.RKF_5.Frame_5596.jpg">
+      <prediction mode="opt">
+         <txt height="28.125" lexRecog="song" unconstrainedRecog="song" width="67" x="208" y="21.5625"/>
+         <txt height="31.875" lexRecog="edited" unconstrainedRecog="(edited)" width="105" x="164" y="200.625"/>
+         <txt height="21.5625" lexRecog="written" unconstrainedRecog="written" width="77" x="55" y="49.6875"/>
+         <txt height="28.125" lexRecog="gloria" unconstrainedRecog="&#34;goria" width="96" x="61" y="201.5625"/>
+         <txt height="19.6875" lexRecog="richard" unconstrainedRecog="richard" width="73" x="145" y="74.0625"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_30.RKF_8.Frame_5638.jpg">
+      <prediction mode="opt">
+         <txt height="29.0625" lexRecog="gloria" unconstrainedRecog="&#34;gooin" width="98" x="61" y="53.4375"/>
+         <txt height="20.625" lexRecog="music" unconstrainedRecog="music" width="59" x="137" y="143.4375"/>
+         <txt height="30.9375" lexRecog="edited" unconstrainedRecog="(edited)" width="100" x="167" y="52.5"/>
+         <txt height="19.6875" lexRecog="network" unconstrainedRecog="network" width="81" x="204" y="144.375"/>
+         <txt height="24.375" lexRecog="anzu" unconstrainedRecog="anzai" width="78" x="197" y="90"/>
+         <txt height="21.5625" lexRecog="pod" unconstrainedRecog="pod" width="39" x="46" y="142.5"/>
+         <txt height="20.625" lexRecog="safe" unconstrainedRecog="safe" width="41" x="90" y="143.4375"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_23.RKF_1.Frame_3348.jpg">
+      <prediction mode="opt">
+         <txt height="27.1875" lexRecog="hair" unconstrainedRecog="hair" width="64" x="224" y="112.5"/>
+         <txt height="26.25" lexRecog="the" unconstrainedRecog="the" width="53" x="164" y="113.4375"/>
+         <txt height="30" lexRecog="swing" unconstrainedRecog="swing" width="91" x="153" y="148.125"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_21.RKF_0.Frame_2776.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_7.RKF_5.Frame_1434.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_11.RKF_0.Frame_1873.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_28.RKF_5.Frame_5460.jpg">
+      <prediction mode="opt">
+         <txt height="32.8125" lexRecog="josh" unconstrainedRecog="" width="57" x="101" y="84.375"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_28.RKF_0.Frame_5379.jpg">
+      <prediction mode="opt">
+         <txt height="26.25" lexRecog="chris" unconstrainedRecog="chris" width="78" x="73" y="85.3125"/>
+         <txt height="17.8125" lexRecog="guy" unconstrainedRecog="guy)" width="31" x="247" y="200.625"/>
+         <txt height="15" lexRecog="since" unconstrainedRecog="since" width="45" x="75" y="159.375"/>
+         <txt height="18.75" lexRecog="watching" unconstrainedRecog="watching" width="75" x="57" y="179.0625"/>
+         <txt height="17.8125" lexRecog="sunhat" unconstrainedRecog="(what" width="47" x="144" y="197.8125"/>
+         <txt height="26.25" lexRecog="human" unconstrainedRecog="human" width="102" x="48" y="120.9375"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_25.RKF_4.Frame_4092.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_18.RKF_7.Frame_2243.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_19.RKF_1.Frame_2323.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_31.RKF_2.Frame_5681.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_31.RKF_3.Frame_5696.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_27.RKF_1.Frame_5100.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_5.RKF_0.Frame_793.jpg">
+      <prediction mode="opt">
+         <txt height="15" lexRecog="wiesel" unconstrainedRecog="wiegel" width="46" x="106" y="30"/>
+         <txt height="11.25" lexRecog="into" unconstrainedRecog="into" width="27" x="63" y="46.875"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_20.RKF_6.Frame_2640.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_22.RKF_3.Frame_3161.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_31.RKF_1.Frame_5666.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_23.RKF_8.Frame_3529.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_32.RKF_4.Frame_5776.jpg">
+      <prediction mode="opt">
+         <txt height="44.0625" lexRecog="cc" unconstrainedRecog="cc" width="41" x="55" y="63.75"/>
+         <txt height="36.5625" lexRecog="commons" unconstrainedRecog="commons" width="141" x="115" y="94.6875"/>
+         <txt height="44.0625" lexRecog="creative" unconstrainedRecog="creative" width="119" x="110" y="35.625"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_21.RKF_8.Frame_3012.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_20.RKF_1.Frame_2414.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_24.RKF_8.Frame_3976.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_6.RKF_3.Frame_1240.jpg">
+      <prediction mode="opt">
+         <txt height="27.1875" lexRecog="josh" unconstrainedRecog="" width="51" x="35" y="181.875"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_20.RKF_3.Frame_2504.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_24.RKF_3.Frame_3742.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_3.RKF_0.Frame_675.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_3.RKF_1.Frame_677.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_27.RKF_6.Frame_5274.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_28.RKF_4.Frame_5451.jpg">
+      <prediction mode="opt">
+         <txt height="32.8125" lexRecog="josh" unconstrainedRecog="" width="59" x="100" y="84.375"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_26.RKF_3.Frame_4386.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_24.RKF_5.Frame_3835.jpg">
+      <prediction mode="opt">
+         <txt height="20.625" lexRecog="carol" unconstrainedRecog="carol" width="45" x="67" y="47.8125"/>
+         <txt height="19.6875" lexRecog="cameo" unconstrainedRecog="(cameo" width="67" x="72" y="193.125"/>
+         <txt height="18.75" lexRecog="show" unconstrainedRecog="show" width="53" x="218" y="48.75"/>
+         <txt height="19.6875" lexRecog="garfield" unconstrainedRecog="garfell" width="67" x="157" y="23.4375"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_17.RKF_1.Frame_1937.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_9.RKF_0.Frame_1509.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_29.RKF_2.Frame_5500.jpg">
+      <prediction mode="opt">
+         <txt height="27.1875" lexRecog="amanda" unconstrainedRecog="amanda" width="111" x="50" y="43.125"/>
+         <txt height="15" lexRecog="com" unconstrainedRecog=".com" width="52" x="137" y="190.3125"/>
+         <txt height="25.3125" lexRecog="redevelopment" unconstrainedRecog="rocketboom.con" width="217" x="47" y="79.6875"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_29.RKF_3.Frame_5509.jpg">
+      <prediction mode="opt">
+         <txt height="27.1875" lexRecog="amanda" unconstrainedRecog="amanda" width="109" x="49" y="43.125"/>
+         <txt height="25.3125" lexRecog="redevelopment" unconstrainedRecog="rocketboom.com" width="219" x="47" y="81.5625"/>
+         <txt height="15" lexRecog="com" unconstrainedRecog=".com" width="51" x="139" y="190.3125"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_4.RKF_4.Frame_742.jpg">
+      <prediction mode="opt">
+         <txt height="14.0625" lexRecog="something" unconstrainedRecog="something" width="67" x="206" y="157.5"/>
+         <txt height="13.125" lexRecog="wilderness" unconstrainedRecog="wilderness" width="61" x="193" y="172.5"/>
+         <txt height="13.125" lexRecog="about" unconstrainedRecog="about" width="36" x="68" y="173.4375"/>
+         <txt height="10.3125" lexRecog="into" unconstrainedRecog="into" width="26" x="134" y="159.375"/>
+         <txt height="13.125" lexRecog="him" unconstrainedRecog="him" width="27" x="103" y="157.5"/>
+         <txt height="13.125" lexRecog="talked" unconstrainedRecog="talked" width="40" x="59" y="156.5625"/>
+         <txt height="12.1875" lexRecog="saying" unconstrainedRecog="savinn" width="39" x="163" y="160.3125"/>
+         <txt height="12.1875" lexRecog="into" unconstrainedRecog="&#34;ito" width="30" x="135" y="173.4375"/>
+         <txt height="9.375" lexRecog="my" unconstrainedRecog="mv" width="20" x="108" y="177.1875"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_7.RKF_1.Frame_1385.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_21.RKF_4.Frame_2894.jpg">
+      <prediction mode="opt">
+         <txt height="39.375" lexRecog="amanda" unconstrainedRecog="" width="227" x="45" y="37.5"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_17.RKF_2.Frame_1939.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_23.RKF_4.Frame_3426.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_30.RKF_3.Frame_5569.jpg">
+      <prediction mode="opt">
+         <txt height="19.6875" lexRecog="richard" unconstrainedRecog="richard" width="73" x="145" y="147.1875"/>
+         <txt height="27.1875" lexRecog="song" unconstrainedRecog="song" width="67" x="209" y="94.6875"/>
+         <txt height="20.625" lexRecog="written" unconstrainedRecog="written" width="76" x="55" y="123.75"/>
+         <txt height="25.3125" lexRecog="by" unconstrainedRecog="by" width="25" x="114" y="146.25"/>
+         <txt height="26.25" lexRecog="music" unconstrainedRecog="music:" width="94" x="117" y="26.25"/>
+         <txt height="20.625" lexRecog="performed" unconstrainedRecog="performee" width="103" x="171" y="124.6875"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_2.RKF_1.Frame_348.jpg">
+      <prediction mode="opt">
+         <txt height="33.75" lexRecog="weasel" unconstrainedRecog="" width="76" x="105" y="159.375"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_22.RKF_0.Frame_3094.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_32.RKF_2.Frame_5754.jpg">
+      <prediction mode="opt">
+         <txt height="38.4375" lexRecog="cc" unconstrainedRecog="cc" width="42" x="55" y="65.625"/>
+         <txt height="35.625" lexRecog="mons" unconstrainedRecog="mons" width="80" x="177" y="94.6875"/>
+         <txt height="15" lexRecog="some" unconstrainedRecog="some" width="34" x="90" y="162.1875"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_6.RKF_1.Frame_1207.jpg">
+      <prediction mode="opt">
+         <txt height="28.125" lexRecog="josh" unconstrainedRecog="josh" width="49" x="36" y="181.875"/>
+         <txt height="22.5" lexRecog="leo" unconstrainedRecog="ieo" width="43" x="95" y="182.8125"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_26.RKF_9.Frame_4939.jpg">
+      <prediction mode="opt">
+         <txt height="15" lexRecog="is" unconstrainedRecog="" width="15" x="209" y="113.4375"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_5.RKF_7.Frame_1102.jpg">
+      <prediction mode="opt">
+         <txt height="13.125" lexRecog="videos" unconstrainedRecog="videos" width="39" x="161" y="30"/>
+         <txt height="13.125" lexRecog="richard" unconstrainedRecog="richard" width="49" x="233" y="29.0625"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_27.RKF_8.Frame_5343.jpg">
+      <prediction mode="opt">
+         <txt height="15.9375" lexRecog="guy" unconstrainedRecog="guy" width="31" x="246" y="201.5625"/>
+         <txt height="18.75" lexRecog="sunhat" unconstrainedRecog="(what" width="47" x="145" y="197.8125"/>
+         <txt height="15.9375" lexRecog="since" unconstrainedRecog="since" width="46" x="74" y="159.375"/>
+         <txt height="21.5625" lexRecog="omayyad" unconstrainedRecog="onmmyvd" width="79" x="44" y="197.8125"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_6.RKF_2.Frame_1224.jpg">
+      <prediction mode="opt">
+         <txt height="28.125" lexRecog="josh" unconstrainedRecog="" width="49" x="36" y="181.875"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_30.RKF_6.Frame_5610.jpg">
+      <prediction mode="opt">
+         <txt height="19.6875" lexRecog="music" unconstrainedRecog="musii" width="58" x="137" y="208.125"/>
+         <txt height="30.9375" lexRecog="edited" unconstrainedRecog="(edited)" width="103" x="165" y="118.125"/>
+         <txt height="19.6875" lexRecog="network" unconstrainedRecog="network" width="82" x="204" y="209.0625"/>
+         <txt height="21.5625" lexRecog="pod" unconstrainedRecog="pod" width="37" x="47" y="207.1875"/>
+         <txt height="24.375" lexRecog="anzu" unconstrainedRecog="anzai" width="77" x="197" y="154.6875"/>
+         <txt height="29.0625" lexRecog="gloria" unconstrainedRecog="&#34;gooiaa" width="96" x="61" y="118.125"/>
+         <txt height="19.6875" lexRecog="safe" unconstrainedRecog="safe" width="41" x="89" y="209.0625"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_26.RKF_1.Frame_4202.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_29.RKF_0.Frame_5473.jpg">
+      <prediction mode="opt">
+         <txt height="27.1875" lexRecog="amanda" unconstrainedRecog="amanda" width="110" x="50" y="43.125"/>
+         <txt height="26.25" lexRecog="redevelopment" unconstrainedRecog="rocketboom.com" width="222" x="47" y="80.625"/>
+         <txt height="15" lexRecog="com" unconstrainedRecog=".com" width="51" x="139" y="190.3125"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_7.RKF_4.Frame_1424.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_10.RKF_1.Frame_1869.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_28.RKF_3.Frame_5433.jpg">
+      <prediction mode="opt">
+         <txt height="32.8125" lexRecog="josh" unconstrainedRecog="" width="59" x="100" y="84.375"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_18.RKF_1.Frame_2016.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_27.RKF_3.Frame_5170.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_27.RKF_5.Frame_5239.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_30.RKF_7.Frame_5624.jpg">
+      <prediction mode="opt">
+         <txt height="30.9375" lexRecog="edited" unconstrainedRecog="(edited)" width="103" x="166" y="53.4375"/>
+         <txt height="29.0625" lexRecog="gloria" unconstrainedRecog="&#34;gorin" width="97" x="61" y="53.4375"/>
+         <txt height="18.75" lexRecog="music" unconstrainedRecog="music" width="58" x="138" y="144.375"/>
+         <txt height="19.6875" lexRecog="network" unconstrainedRecog="network" width="81" x="204" y="144.375"/>
+         <txt height="24.375" lexRecog="anzu" unconstrainedRecog="anzai" width="77" x="197" y="90"/>
+         <txt height="21.5625" lexRecog="pod" unconstrainedRecog="pod" width="38" x="47" y="142.5"/>
+         <txt height="21.5625" lexRecog="safe" unconstrainedRecog="safe" width="42" x="89" y="143.4375"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_18.RKF_4.Frame_2130.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_1.RKF_4.Frame_133.jpg">
+      <prediction mode="opt">
+         <txt height="26.25" lexRecog="famous" unconstrainedRecog="famous" width="101" x="64" y="140.625"/>
+         <txt height="28.125" lexRecog="richard" unconstrainedRecog="richard" width="107" x="110" y="1.875"/>
+         <txt height="36.5625" lexRecog="people" unconstrainedRecog="people" width="88" x="176" y="138.75"/>
+         <txt height="25.3125" lexRecog="and" unconstrainedRecog="and" width="50" x="138" y="72.1875"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_28.RKF_1.Frame_5397.jpg">
+      <prediction mode="opt">
+         <txt height="27.1875" lexRecog="human" unconstrainedRecog="" width="102" x="49" y="120"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_24.RKF_2.Frame_3695.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_4.RKF_3.Frame_728.jpg">
+      <prediction mode="opt">
+         <txt height="14.0625" lexRecog="something" unconstrainedRecog="somethina" width="69" x="203" y="157.5"/>
+         <txt height="13.125" lexRecog="about" unconstrainedRecog="about" width="36" x="68" y="173.4375"/>
+         <txt height="13.125" lexRecog="wilderness" unconstrainedRecog="wilderness" width="62" x="193" y="172.5"/>
+         <txt height="13.125" lexRecog="talked" unconstrainedRecog="talked" width="41" x="59" y="156.5625"/>
+         <txt height="10.3125" lexRecog="into" unconstrainedRecog="mnto" width="26" x="134" y="160.3125"/>
+         <txt height="11.25" lexRecog="saying" unconstrainedRecog="saving" width="38" x="164" y="161.25"/>
+         <txt height="12.1875" lexRecog="him" unconstrainedRecog="him" width="27" x="104" y="157.5"/>
+         <txt height="9.375" lexRecog="my" unconstrainedRecog="mv" width="20" x="108" y="177.1875"/>
+         <txt height="13.125" lexRecog="into" unconstrainedRecog="&#34;into" width="29" x="135" y="173.4375"/>
+         <txt height="13.125" lexRecog="the" unconstrainedRecog="the" width="20" x="168" y="173.4375"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_4.RKF_0.Frame_685.jpg">
+      <prediction mode="opt">
+         <txt height="15" lexRecog="something" unconstrainedRecog="gsomething" width="73" x="200" y="156.5625"/>
+         <txt height="13.125" lexRecog="wilderness" unconstrainedRecog="wildernes." width="60" x="193" y="172.5"/>
+         <txt height="13.125" lexRecog="about" unconstrainedRecog="about" width="36" x="68" y="173.4375"/>
+         <txt height="10.3125" lexRecog="into" unconstrainedRecog="into" width="26" x="134" y="159.375"/>
+         <txt height="11.25" lexRecog="saying" unconstrainedRecog="saving" width="39" x="164" y="160.3125"/>
+         <txt height="13.125" lexRecog="talked" unconstrainedRecog="talked" width="41" x="60" y="156.5625"/>
+         <txt height="12.1875" lexRecog="into" unconstrainedRecog="into" width="29" x="135" y="174.375"/>
+         <txt height="12.1875" lexRecog="him" unconstrainedRecog="him" width="27" x="103" y="157.5"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_2.RKF_7.Frame_593.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_24.RKF_1.Frame_3648.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_24.RKF_6.Frame_3882.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_23.RKF_6.Frame_3477.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_7.RKF_3.Frame_1405.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_24.RKF_4.Frame_3789.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_22.RKF_5.Frame_3206.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_2.RKF_5.Frame_511.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_32.RKF_3.Frame_5765.jpg">
+      <prediction mode="opt">
+         <txt height="38.4375" lexRecog="cc" unconstrainedRecog="cc" width="41" x="55" y="65.625"/>
+         <txt height="37.5" lexRecog="commons" unconstrainedRecog="commons" width="139" x="115" y="93.75"/>
+         <txt height="43.125" lexRecog="creative" unconstrainedRecog="creative" width="118" x="111" y="35.625"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_32.RKF_1.Frame_5742.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_6.RKF_5.Frame_1274.jpg">
+      <prediction mode="opt">
+         <txt height="27.1875" lexRecog="josh" unconstrainedRecog="]osh" width="51" x="35" y="181.875"/>
+         <txt height="21.5625" lexRecog="leo" unconstrainedRecog="ieoo" width="42" x="95" y="182.8125"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_26.RKF_7.Frame_4755.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_22.RKF_4.Frame_3184.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_23.RKF_7.Frame_3503.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_29.RKF_1.Frame_5486.jpg">
+      <prediction mode="opt">
+         <txt height="27.1875" lexRecog="amanda" unconstrainedRecog="amanda" width="111" x="50" y="43.125"/>
+         <txt height="24.375" lexRecog="redevelopment" unconstrainedRecog="rocketboom.com" width="220" x="48" y="81.5625"/>
+         <txt height="15.9375" lexRecog="com" unconstrainedRecog=".com" width="52" x="137" y="190.3125"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_18.RKF_6.Frame_2205.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_22.RKF_7.Frame_3251.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_21.RKF_6.Frame_2953.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_20.RKF_0.Frame_2369.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_25.RKF_2.Frame_4058.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_20.RKF_7.Frame_2685.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_30.RKF_1.Frame_5541.jpg">
+      <prediction mode="opt">
+         <txt height="30.9375" lexRecog="clark" unconstrainedRecog="clark" width="77" x="56" y="82.5"/>
+         <txt height="27.1875" lexRecog="saturn" unconstrainedRecog="saturn" width="88" x="181" y="85.3125"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_27.RKF_4.Frame_5205.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_2.RKF_0.Frame_307.jpg">
+      <prediction mode="opt">
+         <txt height="31.875" lexRecog="weasel" unconstrainedRecog="" width="76" x="104" y="160.3125"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_6.RKF_4.Frame_1257.jpg">
+      <prediction mode="opt">
+         <txt height="28.125" lexRecog="josh" unconstrainedRecog="" width="49" x="36" y="181.875"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_26.RKF_8.Frame_4847.jpg">
+      <prediction mode="opt">
+         <txt height="14.0625" lexRecog="what" unconstrainedRecog="whha" width="36" x="64" y="123.75"/>
+         <txt height="14.0625" lexRecog="richard" unconstrainedRecog="richard" width="50" x="102" y="140.625"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_2.RKF_8.Frame_634.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_20.RKF_2.Frame_2459.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_5.RKF_2.Frame_881.jpg">
+      <prediction mode="opt">
+         <txt height="15.9375" lexRecog="opposed" unconstrainedRecog="opposed" width="53" x="132" y="46.875"/>
+         <txt height="15" lexRecog="luckily" unconstrainedRecog="luckily" width="42" x="40" y="28.125"/>
+         <txt height="13.125" lexRecog="managed" unconstrainedRecog="managed" width="52" x="115" y="31.875"/>
+         <txt height="13.125" lexRecog="garrett" unconstrainedRecog="(aareet" width="50" x="202" y="45"/>
+         <txt height="10.3125" lexRecog="you" unconstrainedRecog="you" width="23" x="85" y="32.8125"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_5.RKF_4.Frame_970.jpg">
+      <prediction mode="opt">
+         <txt height="14.0625" lexRecog="other" unconstrainedRecog="" width="39" x="39" y="29.0625"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_31.RKF_5.Frame_5718.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_6.RKF_8.Frame_1323.jpg">
+      <prediction mode="opt">
+         <txt height="28.125" lexRecog="josh" unconstrainedRecog="josh" width="49" x="36" y="181.875"/>
+         <txt height="23.4375" lexRecog="leo" unconstrainedRecog="ieo" width="43" x="95" y="181.875"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_14.RKF_0.Frame_1904.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_26.RKF_2.Frame_4294.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_21.RKF_1.Frame_2805.jpg">
+      <prediction mode="opt">
+         <txt height="39.375" lexRecog="amanda" unconstrainedRecog="" width="227" x="45" y="37.5"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_18.RKF_3.Frame_2092.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_24.RKF_0.Frame_3601.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_12.RKF_2.Frame_1900.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_26.RKF_4.Frame_4478.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_8.RKF_2.Frame_1468.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_6.RKF_9.Frame_1340.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_21.RKF_7.Frame_2983.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_10.RKF_0.Frame_1859.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_9.RKF_2.Frame_1586.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_23.RKF_2.Frame_3374.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_5.RKF_5.Frame_1014.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_28.RKF_2.Frame_5415.jpg">
+      <prediction mode="opt">
+         <txt height="26.25" lexRecog="human" unconstrainedRecog="" width="105" x="50" y="120.9375"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_9.RKF_5.Frame_1702.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_2.RKF_6.Frame_552.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_25.RKF_5.Frame_4101.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_1.RKF_7.Frame_213.jpg">
+      <prediction mode="opt">
+         <txt height="36.5625" lexRecog="wagerers" unconstrainedRecog="" width="177" x="46" y="149.0625"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_1.RKF_3.Frame_106.jpg">
+      <prediction mode="opt">
+         <txt height="28.125" lexRecog="richard" unconstrainedRecog="richard" width="107" x="111" y="105"/>
+         <txt height="25.3125" lexRecog="starring" unconstrainedRecog="starring" width="104" x="110" y="10.3125"/>
+         <txt height="26.25" lexRecog="and" unconstrainedRecog="and" width="50" x="138" y="174.375"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_9.RKF_3.Frame_1625.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_30.RKF_4.Frame_5583.jpg">
+      <prediction mode="opt">
+         <txt height="19.6875" lexRecog="richard" unconstrainedRecog="richard" width="72" x="145" y="147.1875"/>
+         <txt height="20.625" lexRecog="written" unconstrainedRecog="written" width="78" x="55" y="123.75"/>
+         <txt height="28.125" lexRecog="song" unconstrainedRecog="song" width="66" x="209" y="93.75"/>
+         <txt height="29.0625" lexRecog="vicegerent" unconstrainedRecog="vloggercue" width="140" x="60" y="93.75"/>
+         <txt height="20.625" lexRecog="performed" unconstrainedRecog="performed" width="103" x="173" y="124.6875"/>
+         <txt height="27.1875" lexRecog="music" unconstrainedRecog="music:" width="94" x="117" y="26.25"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_1.RKF_2.Frame_79.jpg">
+      <prediction mode="opt">
+         <txt height="28.125" lexRecog="richard" unconstrainedRecog="richard" width="106" x="112" y="207.1875"/>
+         <txt height="26.25" lexRecog="starring" unconstrainedRecog="starring" width="106" x="109" y="112.5"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_21.RKF_9.Frame_3042.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_1.RKF_1.Frame_52.jpg">
+      <prediction mode="opt">
+         <txt height="21.5625" lexRecog="starring" unconstrainedRecog="" width="106" x="109" y="215.625"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_25.RKF_3.Frame_4075.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_5.RKF_6.Frame_1058.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_30.RKF_0.Frame_5527.jpg">
+      <prediction mode="opt">
+         <txt height="30" lexRecog="clark" unconstrainedRecog="@lark" width="76" x="56" y="82.5"/>
+         <txt height="27.1875" lexRecog="saturn" unconstrainedRecog="saturn" width="88" x="181" y="85.3125"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_18.RKF_8.Frame_2281.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_21.RKF_2.Frame_2835.jpg">
+      <prediction mode="opt">
+         <txt height="39.375" lexRecog="amanda" unconstrainedRecog="" width="228" x="44" y="37.5"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_27.RKF_0.Frame_5066.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_10.RKF_2.Frame_1871.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_23.RKF_0.Frame_3322.jpg">
+      <prediction mode="opt">
+         <txt height="27.1875" lexRecog="hair" unconstrainedRecog="hair" width="63" x="224" y="113.4375"/>
+         <txt height="30" lexRecog="swing" unconstrainedRecog="swing" width="89" x="154" y="149.0625"/>
+         <txt height="26.25" lexRecog="the" unconstrainedRecog="the" width="53" x="164" y="113.4375"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_24.RKF_7.Frame_3929.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_1.RKF_0.Frame_26.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_4.RKF_1.Frame_699.jpg">
+      <prediction mode="opt">
+         <txt height="15" lexRecog="something" unconstrainedRecog="(something" width="71" x="201" y="157.5"/>
+         <txt height="13.125" lexRecog="about" unconstrainedRecog="about" width="36" x="68" y="173.4375"/>
+         <txt height="13.125" lexRecog="wilderness" unconstrainedRecog="wilderness" width="61" x="194" y="172.5"/>
+         <txt height="10.3125" lexRecog="into" unconstrainedRecog="into" width="26" x="134" y="159.375"/>
+         <txt height="11.25" lexRecog="saying" unconstrainedRecog="saving" width="39" x="164" y="160.3125"/>
+         <txt height="13.125" lexRecog="talked" unconstrainedRecog="talked" width="40" x="60" y="157.5"/>
+         <txt height="12.1875" lexRecog="him" unconstrainedRecog="him" width="27" x="104" y="157.5"/>
+         <txt height="12.1875" lexRecog="into" unconstrainedRecog="into" width="29" x="135" y="174.375"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_19.RKF_0.Frame_2319.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_31.RKF_4.Frame_5711.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_26.RKF_0.Frame_4110.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_8.RKF_0.Frame_1455.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_27.RKF_2.Frame_5135.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_32.RKF_0.Frame_5731.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_1.RKF_5.Frame_159.jpg">
+      <prediction mode="opt">
+         <txt height="35.625" lexRecog="people" unconstrainedRecog="people" width="88" x="176" y="40.3125"/>
+         <txt height="27.1875" lexRecog="famous" unconstrainedRecog="famous" width="102" x="65" y="41.25"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_5.RKF_8.Frame_1146.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_22.RKF_1.Frame_3116.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_26.RKF_6.Frame_4663.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_6.RKF_6.Frame_1290.jpg">
+      <prediction mode="opt">
+         <txt height="28.125" lexRecog="josh" unconstrainedRecog="josh" width="49" x="36" y="181.875"/>
+         <txt height="22.5" lexRecog="leo" unconstrainedRecog="ieo" width="44" x="95" y="182.8125"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_22.RKF_6.Frame_3229.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_20.RKF_5.Frame_2595.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_22.RKF_2.Frame_3139.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_14.RKF_1.Frame_1914.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_18.RKF_2.Frame_2054.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_9.RKF_8.Frame_1818.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_2.RKF_2.Frame_389.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_26.RKF_5.Frame_4571.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_21.RKF_5.Frame_2924.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_14.RKF_2.Frame_1920.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_9.RKF_4.Frame_1664.jpg">
+      <prediction mode="opt"/>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_1.RKF_6.Frame_186.jpg">
+      <prediction mode="opt">
+         <txt height="20.625" lexRecog="ln" unconstrainedRecog="" width="26" x="151" y="79.6875"/>
+      </prediction>
+   </img>
+   <img name="/home/nghianv/data/frame/TRECVID2016_35345/TRECVID2016_35345.shot35345_6.RKF_7.Frame_1307.jpg">
+      <prediction mode="opt">
+         <txt height="28.125" lexRecog="josh" unconstrainedRecog="" width="49" x="36" y="181.875"/>
+      </prediction>
+   </img>
+</readpic>
